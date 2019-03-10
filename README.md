@@ -15,6 +15,7 @@ I understood from the teaching team that the 'squish' is not part of the homewor
 
 ### Alternative approach
 Please note alternative approach to 'Bubble Plot of Ride Sharing Data' exercise in pyber-other approach.ipynb
+I know Cam stated in class that comprehension tends to not be very readeable. I actually find it more concise and more readeable (probably depending on what all in in there).
 
 ### Testing 
 Please ignore pyber-Copy1.ipynb. It was used for the alternative approach.
