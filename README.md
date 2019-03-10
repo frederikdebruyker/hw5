@@ -12,3 +12,5 @@ You will find remnants of the tries in the code. Angle serves a different purpos
 
 I understood from the teaching team that the 'squish' is not part of the homework and is probably a misrepresentation through gitlab.
 
+Please note alternative approach to 'Bubble Plot of Ride Sharing Data' exercise in pyber-other approach.ipynb
+
