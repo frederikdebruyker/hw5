@@ -2,8 +2,8 @@
 the homework is option 1 Pyber.
 Additional actions on option 2 are for practice only
 
-Pyber
-Squish
+# Pyber
+# Squish
 Please note that I requested help on the perceived 'squish' of the pie chart. I tried several alternatives to no avail:
 - figsize
 - axis
@@ -13,8 +13,8 @@ You will find remnants of the tries in the code. Angle serves a different purpos
 
 I understood from the teaching team that the 'squish' is not part of the homework and is probably a misrepresentation through gitlab.
 
-Alternative approach
+# Alternative approach
 Please note alternative approach to 'Bubble Plot of Ride Sharing Data' exercise in pyber-other approach.ipynb
 
-Testing
+# Testing 
 Please ignore pyber-Copy1.ipynb. It was used for the alternative approach.
