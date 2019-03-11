@@ -17,6 +17,6 @@ Please ignore pyber-Copy1.ipynb. It was used for the alternative approach.
 
 ## Pymaceuticals
 ### Metastatic Response to Treatment
-I believe that the 3rd table in section Metastatic Response to Treatment is incorrect. It is a copy of the previous section. This should  be a reformat of the standard error of metastatic sites, which produces mostly numbers below 1. The table in the homework is showing in the 40-50 range.
+I believe that the 3rd table in homework section Metastatic Response to Treatment is incorrect. It is a copy of the previous section. This should  be a reformat of the standard error of metastatic sites, which produces mostly numbers below 1. The table in the homework is showing in the 40-50 range.
 ### Summary Bar Graph
 work in progress
