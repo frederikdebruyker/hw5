@@ -1,5 +1,5 @@
 # hw5
-the homework is option 1 Pyber and option 2 Pymaceuticals (currently missing last bar char, but otherwise complete).
+the homework is option 1 Pyber and option 2 Pymaceuticals (currently missing first drug pending question with teaching staff, but otherwise complete).
 
 ## Pyber
 ### Squish
@@ -20,4 +20,4 @@ Please ignore pyber-Copy1.ipynb. It was used for the alternative approach.
 ### Metastatic Response to Treatment
 I believe that the 3rd table in homework section Metastatic Response to Treatment is incorrect. It is a copy of the previous section. This should  be a reformat of the standard error of metastatic sites, which produces mostly numbers below 1. The table in the homework is showing in the 40-50 range.
 ### Summary Bar Graph
-work in progress
+pending question with teaching staff
