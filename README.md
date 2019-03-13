@@ -1,6 +1,8 @@
 # hw5
-the homework is option 1 Pyber and option 2 Pymaceuticals (currently missing first drug pending question with teaching staff, but otherwise complete).
-
+the homework is option 2 Pymaceuticals and option 1 Pyber. If you can only evaluate one of the two, please go with Pymaceuticals
+## Pymaceuticals
+### Metastatic Response to Treatment
+I believe that the 3rd table in homework section Metastatic Response to Treatment is incorrect. It is a copy of the previous section. This should  be a reformat of the standard error of metastatic sites, which produces mostly numbers below 1. The table in the homework is showing in the 40-50 range.
 ## Pyber
 ### Squish
 Please note that I requested help on the perceived 'squish' of the pie chart. I tried several alternatives to no avail:
@@ -16,8 +18,3 @@ I know Cam stated in class that comprehension tends to not be very readable. I a
 ### Testing 
 Please ignore pyber-Copy1.ipynb. It was used for the alternative approach.
 
-## Pymaceuticals
-### Metastatic Response to Treatment
-I believe that the 3rd table in homework section Metastatic Response to Treatment is incorrect. It is a copy of the previous section. This should  be a reformat of the standard error of metastatic sites, which produces mostly numbers below 1. The table in the homework is showing in the 40-50 range.
-### Summary Bar Graph
-pending question with teaching staff
